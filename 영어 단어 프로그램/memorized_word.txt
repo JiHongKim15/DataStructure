@@ -1,0 +1,7 @@
+job 직업
+earth 지구
+problem 문제
+story 이야기
+lot 많이
+name 이름
+area 구역
